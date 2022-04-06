@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @g3nto
+- 👀 I’m interested in cyber security, red teamer, android hacking, and linux
+- 🌱 I’m currently learning about cyber security and so many things in between
